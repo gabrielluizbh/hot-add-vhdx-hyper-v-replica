@@ -1,4 +1,4 @@
-﻿# Script de adicionar VHDX "a quente" em máquinas virtuais replicadas com Hyper-V Réplica - Créditos Gabriel Luiz - www.gabrielluiz.com ##
+﻿## Script de adicionar VHDX "a quente" em máquinas virtuais replicadas com Hyper-V Réplica - Créditos Gabriel Luiz - www.gabrielluiz.com ##
 
 
 # Adcionar todos os discos rígidos virtuais presentes na máquina virtual com o nome VM a replicação do Hyper-V Réplica.
